@@ -1,3 +1,10 @@
+---
+layout: post
+title: 线性模型
+description: 周志华之机器学习第三章
+categories: 机器学习
+tags: [机器学习]
+---
 # 线性模型
 
 优点：  
@@ -7,13 +14,14 @@
 
 	<img src="http://www.forkosh.com/mathtex.cgi? y=w^Tx">   
 =>  
-	<img src="http://www.forkosh.com/mathtex.cgi? \hat{w}=(X^TX)^{-1}X^TY">  	
-	=>  
+	<img src="http://www.forkosh.com/mathtex.cgi? \hat{w}=(X^TX)^{-1}X^TY">  	 	
+=>  
 		<img src="http://www.forkosh.com/mathtex.cgi? \hat{Y}=X(X^TX)^{-1}X^TY">  
 		
 #### 线性回归
 <img src="http://www.forkosh.com/mathtex.cgi? 
-y = w^Tx+b">
+y = w^Tx+b">  
+
 #### 对数线性回归
 <img src="http://www.forkosh.com/mathtex.cgi? lny=w^Tx+b">  
 
