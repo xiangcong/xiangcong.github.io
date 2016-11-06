@@ -4,6 +4,8 @@ title: "问答：Faqs"
 ---
 
 备忘录
+机器学习数据挖掘入门：
+http://www.nowcoder.com/discuss/15168?type=0&order=0&pos=45&page=3
 
 <!-- Blog Comments -->
 <div class="media">
